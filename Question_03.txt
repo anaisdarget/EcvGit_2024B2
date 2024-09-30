@@ -1,2 +1,3 @@
 A quoi sert Git ?
--> 
+->Git permet de gérer les modifications d'un projet.
+
